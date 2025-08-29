@@ -1,2 +1,2 @@
 # Arafat-api-zone
- These APIs are for personal use ☺️
+ These APIs are for personal use 🍒
